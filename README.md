@@ -8,6 +8,10 @@
 
 > A lightweight Flask-powered scientific calculator with a clean browser UI and a safer backend expression evaluator.
 
+## Live Demo
+
+Try the deployed app here: [scientific-calculator-xdjr.onrender.com](https://scientific-calculator-xdjr.onrender.com/)
+
 ## Overview
 
 `scientific_calculator` is a compact web application that performs standard arithmetic and scientific calculations through a Flask API and a responsive HTML/CSS/JavaScript interface. It demonstrates frontend interaction, JSON API requests, Python routing, and secure server-side expression handling.
@@ -34,6 +38,7 @@ The project is intentionally small, making it easy to understand, deploy, and ex
 | Frontend | HTML5, CSS3, JavaScript |
 | API | JSON over HTTP |
 | Runtime | Local Python server or hosted WSGI platform |
+| Deployment | Render |
 | Configuration | Environment variable based port configuration |
 
 ## Installation
